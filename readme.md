@@ -74,3 +74,9 @@
 
 ​	其中方案1 “平台化方案-自研” 适合有自动化氛围的公司，该方案需要公司层面提供前后端开发人力给予支持，或者一个成熟的测试开发工程师单独来搞定；方案2 “平台化方案-集成开源平台” 是可以做到将seliky集成到metersphere（以下简称ms）里面的，可惜的是ms里的ui自动化是收费且很难用的，作者也很希望ms官方能直接采用seliky来替换掉ms里的ui库底层，虽然我们可以对ms做二次开发来支持seliky，但若ms官方能直接改了那才是从根本解决问题。
 
+### 番外📣
+
+- seliky地址：https://github.com/Teark/seliky
+- conftestpy地址：https://github.com/Teark/conftestpy
+
+这两个项目都是作者的心血制作（均采用pip安装哦），seliky是本篇教程的基石，conftestpy是作者自研的精美测试报告。它们+pytest组合在一起，才是ui自动化该有的样子嘛~

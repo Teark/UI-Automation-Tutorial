@@ -30,7 +30,7 @@
 - [2023.9] seliky支持了grid分布式🔥🔥
 - [2022.5] 商业化-seliky支撑着VCG的自动化、爬虫等业务🔥🔥🔥
 - [2021.8] 作者自研了超好用的上传器-upload，可以在seliky中直接与页面交互🔥🔥🔥
-- [2021.6] 作者自研了超好看的测试报告-conftestpy，可以在seliky中无感使用🔥🔥🔥
+- [2021.6] 作者自研了超好看的测试报告-pytest-html5，可以在seliky中无感使用🔥🔥🔥
 - [2020.3] seliky借鉴华为aw思路，统一了一系列规范，优化了高亮、稳定、统一xpath、支持robotframework等。🔥🔥
 - [2018] seliky雏形诞生，集百家之所长🔥
 
@@ -46,13 +46,13 @@
 
 ​	除了稳定性外，seliky的精简、优雅与易用程度堪称一绝，你几乎不需要代码基础，就是各种调用，如：点击、输入、上传、拖拽，简直是言出法随，说的官方一点，非常pythonic。
 
-​	还有集成了优美的测试报告。原生的报告过于丑陋，大家熟知的Allure报告过于臃肿以至于还依赖着java环境。作者自研的pyconftest结合seliky和pytest的使用带来优美又详细测试报告。
+​	还有集成了优美的测试报告。原生的报告过于丑陋，大家熟知的Allure报告过于臃肿以至于还依赖着java环境。作者自研的pytest-html5带来优美又详细测试报告。
 
 ​	更不用说它还支持grid这种其它第三方库很少涉足的深度，还有远非其它库能比的真实交互的上传功能，更多精彩，请见seliky。
 
 ### 🚩方案
 
-​	目前最佳的ui自动化方案，简而言之为：seliky + pytest，语言用的python。其它插件有pyconftest以及pytest家族的插件。
+​	目前最佳的ui自动化方案，简而言之为：seliky + pytest，语言用的python。其它插件有pytest-html5以及pytest家族的插件。
 
 ### 😣不用担心
 
@@ -77,6 +77,6 @@
 ### 番外📣
 
 - seliky地址：https://github.com/Teark/seliky
-- conftestpy地址：https://github.com/Teark/conftestpy
+- pytest-html5地址：https://github.com/Teark/pytest-html5
 
-这两个项目都是作者的心血制作（均采用pip安装哦），seliky是本篇教程的基石，conftestpy是作者自研的精美测试报告。它们+pytest组合在一起，才是ui自动化该有的样子嘛~
+这两个项目都是作者的心血制作（均采用pip安装哦），seliky是本篇教程的基石，pytest-html5是作者自研的精美测试报告。它们+pytest组合在一起，才是ui自动化该有的样子嘛~

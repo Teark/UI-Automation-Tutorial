@@ -4,11 +4,11 @@ selenium官网：https://www.selenium.dev/zh-cn/
 
 seliky官网：https://gitee.com/teark/seliky
 
-conftestpy官网：https://gitee.com/teark/conftest
+pytest-html5官网：https://gitee.com/teark/pytest-html5
 
 
 
-​	如果读者对seliky有更好的想法或提议可以告诉我。如果需要对seliky、conftestpy二次魔改，加作者微信，可以让你少走弯路。
+​	如果读者对seliky有更好的想法或提议可以告诉我。如果需要对seliky、pytest-html5二次魔改，加作者微信，可以让你少走弯路。
 
 
 

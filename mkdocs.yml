@@ -5,13 +5,17 @@ site_author: teark
 # 导航结构
 nav:
   - 首页: index.md
-  - UI自动化:
-    - 环境准备: 1.环境准备.md
-    - 如何写出高稳定性的xpath？: 2.如何写出高稳定性的xpath？.md
-    - pytest会这几个足够了: 3.pytest会这几个足够了.md
-    - ui自动化四层结构思想: 4.ui自动化四层结构思想.md
-    - 逐渐深入的3个demo: 5.逐渐深入的3个demo.md
-  - 效果展示: 6.效果展示.md
+  - 1.环境准备: 1.环境准备.md
+  - 2.如何写出高稳定性的xpath？: 2.如何写出高稳定性的xpath？.md
+  - 3.pytest会这几个足够了: 3.pytest会这几个足够了.md
+  - 4.seliky与四层结构:
+      seliky: seliky与四层结构/seliky.md
+      四层结构思想: seliky与四层结构/四层结构思想.md
+  - 5.逐渐深入的3个demo: 5.逐渐深入的3个demo.md
+  - 6.效果展示: 6.效果展示.md
+  - 7.平台化方案:
+      自研: 平台化/7.平台化-自研方案.md
+      二次开发: 平台化/7.平台化-二次开发方案.md
   - 关于: about.md
 
 # 主题设置

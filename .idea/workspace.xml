@@ -1,132 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87841f68-ef7e-4ed2-928b-9d8a9bf2cd32" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.环境准备/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.如何写出高稳定性的xpath？/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.pytest会这几个足够了/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.逐渐深入的3个demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.效果展示/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/beautiful.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/csbgg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/dddd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/hjg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/jgg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/jxpy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/mrxm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/rwgll.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/sc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/ssyl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/whiteboard_exported_image 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/whiteboard_exported_image 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/whiteboard_exported_image 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/whiteboard_exported_image 7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/whiteboard_exported_image 9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/whiteboard_exported_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/xmgl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/xmjg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets-plat/xzrw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/1749716202200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240731091953704.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240731092726558.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240731093413387.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240731093906561.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240731154446490.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240731154856688.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240805160933819.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240805161844753.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240805161941096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240805161959936.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806110620687.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806110657954.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806111033331.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806111908942.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806112152555.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806112537504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806112648967.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806112834308.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806113859222.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806114122607.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806135853606.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806140315298.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806140609993.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806140708584.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806140909080.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20240806143543916.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20250611103012090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20250611103258281.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20250611103431281.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20250611103610537.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image-20250612162305399.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/bundle.56ea9cef.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/bundle.56ea9cef.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.da.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.de.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.du.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.el.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.es.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.fi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.fr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.he.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.hi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.hu.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.hy.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.it.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ja.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.jp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.kn.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ko.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.multi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.nl.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.no.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.pt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ro.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ru.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.sa.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.stemmer.support.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.sv.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ta.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.te.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.th.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.tr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.vi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.zh.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/tinyseg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/wordcut.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/workers/search.d50fe291.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/javascripts/workers/search.d50fe291.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/stylesheets/main.342714a4.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/stylesheets/main.342714a4.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/stylesheets/palette.06af60db.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/stylesheets/palette.06af60db.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/wps4C42.tmp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/wps4C52.tmp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/未标题-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/search_index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seliky与四层结构/seliky/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seliky与四层结构/四层结构思想/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/1.环境准备/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/2.如何写出高稳定性的xpath？/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/3.pytest会这几个足够了/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/5.逐渐深入的3个demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/6.效果展示/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/seliky与四层结构/seliky/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/seliky与四层结构/四层结构思想/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/平台化/7.平台化-二次开发方案/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/平台化/7.平台化-自研方案/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/平台化/7.平台化-二次开发方案/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/平台化/7.平台化-自研方案/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="87841f68-ef7e-4ed2-928b-9d8a9bf2cd32" name="Default Changelist" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +90,7 @@
       <workItem from="1758079386566" duration="671000" />
       <workItem from="1758080611333" duration="1193000" />
       <workItem from="1758094481229" duration="8000" />
-      <workItem from="1758095566622" duration="1395000" />
+      <workItem from="1758095566622" duration="1822000" />
     </task>
     <task id="LOCAL-00001" summary="。">
       <created>1751265514121</created>

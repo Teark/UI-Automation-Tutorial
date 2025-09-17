@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87841f68-ef7e-4ed2-928b-9d8a9bf2cd32" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/4.ui自动化四层结构思想.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/seliky与四层结构/四层结构思想.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/7.平台化方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/平台化/7.平台化-自研方案.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="87841f68-ef7e-4ed2-928b-9d8a9bf2cd32" name="Default Changelist" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/seliky思想" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
@@ -94,6 +87,7 @@
       <workItem from="1753695262326" duration="342000" />
       <workItem from="1758009829749" duration="3788000" />
       <workItem from="1758079386566" duration="671000" />
+      <workItem from="1758080611333" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="。">
       <created>1751265514121</created>
